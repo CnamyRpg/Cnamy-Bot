@@ -133,7 +133,7 @@ For further customization and setup guidance, click the button below:
 
 <div align="center">
   <a href="https://www.instagram.com/ulookuglylikeme/">
-    <img src="t.me/Einmaldenkundenkennwort" alt="Join Telegram"/>
+    <img src="https://t.me/Einmaldenkundenkennwort" alt="Join Telegram"/>
   </a>
   <a href="https://www.instagram.com/ulookuglylikeme/">
     <img src="https://www.instagram.com/ulookuglylikeme/" alt="Join Instagram"/>
