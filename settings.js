@@ -3,7 +3,7 @@ const settings = {
   author: 'Bot',
   botName: "Cnamy Bot",
   botOwner: 'Cnamy', // Your name
-  ownerNumber: '4915236614741', //Your number
+  ownerNumber: '494484544', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
