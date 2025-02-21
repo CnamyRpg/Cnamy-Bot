@@ -49,7 +49,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="t.me/Einmaldenkundenkennwort">
+  <a href="https://www.instagram.com/ulookuglylikeme/">
     <img src="https://www.instagram.com/ulookuglylikeme/" alt="Instagram Link"/>
   </a>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
@@ -133,7 +133,7 @@ For further customization and setup guidance, click the button below:
 
 <div align="center">
   <a href="https://www.instagram.com/ulookuglylikeme/">
-    <img src="https://www.instagram.com/ulookuglylikeme/" alt="Join Telegram"/>
+    <img src="t.me/Einmaldenkundenkennwort" alt="Join Telegram"/>
   </a>
   <a href="https://www.instagram.com/ulookuglylikeme/">
     <img src="https://www.instagram.com/ulookuglylikeme/" alt="Join Instagram"/>
